@@ -2,4 +2,4 @@
 
 Banner de aniversário (uso interno).
 
-![Banner de aniversário](Hero.png)
+![Banner de aniversário](NewHero.png)
