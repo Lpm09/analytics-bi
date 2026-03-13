@@ -1,0 +1,5 @@
+# Dependências para conexão com Power BI Desktop local
+# Instale com: pip install -r requirements.txt
+
+# Conexão OLEDB com Analysis Services local (Power BI Desktop)
+pyodbc>=5.0.0
